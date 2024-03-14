@@ -1,4 +1,4 @@
-# 001 Hey pin menu
+# Hey pin menu
 
 In this challenge we are supposed to implement the pin menu (set aside menu) in site hey dot com as follow with the behavior as well not only the design.
 
